@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Declarative.AI.Abstractions.Tests/Declarative.AI.Abstractions.Tests.csproj" />
+  <Project Path="src/Declarative.AI.Abstractions/Declarative.AI.Abstractions.csproj" />
+</Solution>

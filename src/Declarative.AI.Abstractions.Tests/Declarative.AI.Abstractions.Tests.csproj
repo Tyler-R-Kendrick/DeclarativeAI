@@ -1,0 +1,11 @@
+<Project Sdk="MSTest.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Declarative.AI.Abstractions\*.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Declarative.AI.Abstractions" />
+  </ItemGroup>
+
+</Project>
