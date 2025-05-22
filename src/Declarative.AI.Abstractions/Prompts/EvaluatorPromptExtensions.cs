@@ -2,7 +2,7 @@ using Microsoft.Extensions.AI.Evaluation;
 
 namespace Declarative.AI.Abstractions;
 
-public static class EvaluatorExtensions
+public static class EvaluatorPromptExtensions
 {
     public static ValueTask<EvaluationResult> EvaluateAsync(
         this IEvaluator evaluator,
